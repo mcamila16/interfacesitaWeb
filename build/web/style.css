@@ -1,0 +1,42 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1/09/2023, 9:39:54 a. m.
+    Author     : camil
+*/
+body{
+    text-align: center;
+}
+
+#titulo{
+    font-family: fantasy;
+    color: #660000;
+    font-size: 35px;
+}
+
+#horas{
+    font-family: sans-serif;
+    color: #006666;
+}
+
+#perros{
+    font-family: sans-serif;
+    color: #006666;
+}
+
+#tamaño{
+    font-family: sans-serif;
+    color: #006666;
+}
+
+#nota{
+    font-family: sans-serif;
+    color: #ff9900;
+}
+
+.boton {
+    font-family: sans-serif;
+    color: #ff9900;
+}
